@@ -363,7 +363,7 @@ line-height: 32px;
 
   position: absolute;
     top: 418%;
-    left: 10%;
+    left: 15%;
     z-index: 1;
 
 
@@ -492,5 +492,143 @@ outline: none;
    border-radius: 0px 50px 50px 0px;
 background: #F00;
 border: none;
+}
+
+.footer-section {
+    background-color: #070211;
+    width: 2100px;
+    
+    height: 600px;
+    position:absolute ;
+    top: 708%;
+    
+}
+
+.footer-section > .footer-section1 p{
+
+    color:#FFF;
+    position: absolute;
+    left: 20%;
+    top: 30%;
+    color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px
+}
+
+.footer-section > .footer-section2 #phone {
+
+   
+
+    color: #FFF;
+    position: absolute;
+    left: 53%;
+    top: 31%;
+    font-size: 27px;
+
+
+}
+
+#fa-globe{
+    color: #FFF;
+    position: absolute;
+    top: 38%;
+    left: 53%;
+    font-size: 27px;
+}
+
+
+
+
+
+.footer-section3{
+
+    position: absolute;
+    left: 55%;
+    top: 30%;
+    color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+
+}
+
+.footer-section4{
+    background: rgba(255, 255, 255, 0.15);
+    width: 1200px;
+    height: 1px;
+    position: absolute;
+    top: 48%;
+    left: 15%;
+}
+
+
+
+.footer-section5{
+
+    position: absolute;
+    left: 35%;
+    top: 56%;
+    word-spacing: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.footer-section6{
+
+    background: rgba(255, 255, 255, 0.15);
+    width: 1200px;
+    height: 1px;
+    position: absolute;
+    top: 75%;
+    left: 15%;
+
+
+}
+
+.footer-section7 p{
+
+    color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+position: absolute;
+top: 78%;
+left: 17%;
+}
+
+.footer-section7 button{
+
+    color: #FFF;
+    background: transparent;
+    color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+position: absolute;
+left:63%;
+top: 78%;
+border: none;
+
 }
 
