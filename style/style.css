@@ -4,6 +4,7 @@
    
    
 }
+
 .banner1{
     background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%) , url('../resources/Banner\ Image.png');
 
@@ -11,13 +12,14 @@
     height: 600px;
     margin: 50px 70px;
     border-radius: 16px;
+
 }
 
 .banner1 h3{
     color: white;
     top: 25%;
     position: absolute;
-    left: 35%;
+    left: 45%;
     transform: translate(-10%, -30%);
     color: #FFF;
 
@@ -34,7 +36,7 @@
     color: white;
     top: 35%;
     position: absolute;
-    left: 30%;
+    left: 40%;
     transform: translate(-10%, -30%);
     text-align: center;
     color: #FFF;
@@ -51,7 +53,7 @@
 .banner2{
     position: absolute;
     top: 80%;
-    left: 20%;
+    left: 30%;
     
   
 }
@@ -97,7 +99,7 @@ line-height: normal;
     height: 600px;
     position: absolute;
     top: 170%;
-    left: 5%;
+    left: 15%;
     border-radius: 16px;
 
 }
@@ -170,7 +172,7 @@ text-transform: uppercase;
     height: 400px;
     position: absolute;
     top: 250%;
-    left: 5%;
+    left: 15%;
     
 
 }
@@ -215,18 +217,20 @@ line-height: normal;
 }
 
 
+
+
 .banner5 > .banner5-section0{
 
     position: absolute;
     top: 320%;
-    left: 30%;
+    left: 42%;
 }
 
 .banner5-section1 {
 
     position: absolute;
     top: 325%;
-    left: 5%;
+    left: 15%;
     width: 350px;
 
  
@@ -237,7 +241,7 @@ line-height: normal;
 
     position:absolute;
     top: 325%;
-    left: 60%;
+    left: 71%;
     width: 300px;
 }
 
@@ -303,7 +307,7 @@ line-height: 32px;
 
     position: absolute;
     top: 380%;
-    left: 20%;
+    left: 27%;
     text-align: center;
     width: 800px;
     
@@ -346,12 +350,12 @@ line-height: 32px;
 
     position: absolute;
     top: 420%;
-    left: 50%;
+    left: 63%;
 }
 .banner6-image2{
     position: absolute;
     top: 420%;
-    left: 42%;
+    left: 53%;
 }
 
 
@@ -359,6 +363,7 @@ line-height: 32px;
 
   position: absolute;
     top: 418%;
+    left: 10%;
     z-index: 1;
 
 
@@ -368,8 +373,124 @@ line-height: 32px;
 
     position: absolute;
     top: 464%;
-    left: 2.1%;
+    left: 15%;
+
 }
 
+.banner7{
 
+    position: absolute;
+    top: 500%;
+    left: 16%;
+}
+.banner7 > .banner7-text h3{
+
+    color: #F00;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
+
+}
+
+.banner7 > .banner7-text h1{
+
+    color: #070211;
+
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+
+.banner7 > .banner7-text p{
+
+    color: rgba(7, 2, 17, 0.60);
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+width: 800px;
+}
+
+.banner8{
+
+    background:  rgba(255, 0, 0, 0.05);
+    width: 1300px;
+   height: 750px;
+   position: absolute;
+   top: 630%;
+   left: 15%;
+   border-radius: 16px;
+}
+
+.banner8 > img{
+
+    position: absolute;
+    left: 45%;
+    top: 25%;
+}
+
+.banner8 > h1{
+    position: absolute;
+    left: 33%;
+    top: 60%;
+    color: #070211;
+
+text-align: center;
+font-family: 'Merriweather', serif;
+
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+
+}
+
+.banner8 > p{
+    position: absolute;
+    left: 28%;
+    top: 75%;
+    width: 550px;
+    text-align: center;
+    color: rgba(7, 2, 17, 0.60);
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
+
+.banner8 > input{
+    position: absolute;
+    left: 35%;
+    top: 90%;
+    border: none;
+    border: 16px;
+    width: 300px;
+    height: 50px;
+    border-radius: 50px;
+background: #FFF;
+outline: none;
+
+}
+.banner8 button{
+
+   position: absolute;
+   left: 56%;
+   top: 90%;
+   height: 49px;
+   border-radius: 0px 50px 50px 0px;
+background: #F00;
+border: none;
+}
 
