@@ -299,3 +299,75 @@ font-weight: 400;
 line-height: 32px;
 }
 
+.banner6 > .banner6-text{
+
+    position: absolute;
+    top: 380%;
+    left: 20%;
+    text-align: center;
+    width: 800px;
+    
+}
+
+.banner6 > .banner6-text h3{
+    color: #070211;
+    font-family: 'Merriweather', serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
+}
+
+.banner6 > .banner6-text h1{
+
+    color: #070211;
+    font-family: 'Merriweather', serif;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+
+.banner6 > .banner6-text p{
+
+    color: rgba(7, 2, 17, 0.60);
+
+text-align: center;
+font-family: 'Merriweather', serif;
+
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px;
+}
+
+.banner6-image1{
+
+    position: absolute;
+    top: 420%;
+    left: 50%;
+}
+.banner6-image2{
+    position: absolute;
+    top: 420%;
+    left: 42%;
+}
+
+
+#banner6-image-container > .banner6-image3{
+
+  position: absolute;
+    top: 418%;
+    z-index: 1;
+
+
+}
+
+#banner6-image-container > .banner6-image4{
+
+    position: absolute;
+    top: 464%;
+    left: 2.1%;
+}
+
