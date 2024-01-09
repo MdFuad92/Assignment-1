@@ -474,8 +474,8 @@ line-height: 32px;
 
 .banner8 > input{
     position: absolute;
-    left: 39%;
-    top: 90%;
+    left: 37%;
+    top: 89.8%;
     border: none;
     border: 16px;
     width: 300px;
@@ -488,9 +488,9 @@ outline: none;
 .banner8 button{
 
    position: absolute;
-   left: 58%;
+   left: 56%;
    top: 90%;
-   height: 52px;
+   height: 49px;
    border-radius: 0px 50px 50px 0px;
 background: #F00;
 border: none;
